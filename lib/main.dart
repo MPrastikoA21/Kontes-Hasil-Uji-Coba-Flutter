@@ -7,7 +7,7 @@ void main() {
         backgroundColor: Colors.lightGreenAccent[700],
         appBar: AppBar(
           leading: Icon(Icons.home),
-          title: Text('Flutter Tutorial'),
+          title: Text('Flutter Tutorial Logo Undiksha'),
           actions: <Widget>[
             Icon(Icons.search),
           ],
